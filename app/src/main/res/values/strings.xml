@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week3HWWeather</string>
+    <string name="u_s_standard">U.S. Standard</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="your_local_weather">Your Local Weather</string>
+    <string name="title_activity_local_weather">LocalWeather</string>
+    <string name="metric">Metric</string>
+    <string name="empty_string" />
+    <string name="percent">%%</string>
+</resources>
